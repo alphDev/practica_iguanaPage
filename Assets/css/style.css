@@ -1,0 +1,136 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family:'Raleway', sans-serif;
+    opacity: 1;
+}
+section {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+ header {
+     background-color: #000000;
+     color: #ffffff;
+     text-align: center;
+     margin: 0px;
+     padding: 3px;
+}
+ h1 {
+     margin: 0rem;
+     text-align: center;
+     font-weight: 500; 
+     font-size: 59px;
+}
+
+ #portada {
+     display: inline-block;
+     width: 100%;
+}
+
+ .section-1 {
+     background-color: #000000;
+     color: #ffffff;
+     margin: 0px;
+     border: 0px;
+     padding: 50px;
+     text-align: center;
+   
+}
+
+.section-1 * {
+    display: inline-block;
+    
+
+}
+
+ .section-1 p {
+    vertical-align: top;
+    text-align: left;
+    width: 33%;
+    margin: 3rem;
+    font-weight: 300; 
+    font-size: 16px;
+    
+}
+
+.section-1 img {
+     text-align: center;
+     width: 400px;
+     margin: 3rem;
+}
+
+.section-2{
+    color: white;
+    background-color: #1e1a13;
+    opacity: 0.98;
+    padding-top: 50px;
+    padding-bottom: 55px;
+    
+}
+
+.section-2 h2 {
+    display: block;
+    text-align: center;
+    margin: 0px;
+    padding: 2rem;
+    padding-bottom: 4rem;
+    font-weight: 500;
+    font-size: 47px;   
+}
+.section-2-icon{
+    text-align: center;
+    
+}
+
+.section-2-icon * {
+    display: inline-block; 
+    text-align: center;   
+    padding-left: 6%;
+    padding-right: 6%;
+    width: 225px;
+    font-size: 1.70rem;   
+}
+
+.section-2-icon i {
+    text-align: center;
+    font-size: 3.4rem;
+}
+.section-2-icon p {
+    margin-top: 10px;
+    font-weight: 300;
+    font-size: 16;
+}
+.section-3 {
+    background-color: #000000;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.section-3 * {
+    display: inline-block;
+    width: 23rem;
+    height: 16rem;
+    padding-left: 1%;
+    padding-right: 1%;    
+}
+
+footer {
+    background-color: #1e1a13;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    
+}
+footer a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+
